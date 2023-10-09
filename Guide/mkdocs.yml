@@ -28,6 +28,7 @@ plugins:
         python:
           options:
             show_source: false
+      use_directory_urls: false
 
 theme:
   name: material
