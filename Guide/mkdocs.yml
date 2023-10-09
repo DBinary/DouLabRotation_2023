@@ -8,7 +8,7 @@ nav:
 - Index: index.md
 - Tutorials:
     - NGS:
-        - Preprocessing the data of scATAC-seq: Tutorials-NGS/t_preprocess.ipynb
+        - Calculating the telomere length with telseq: Tutorials-NGS/telseq.ipynb
 
 
   
