@@ -6,14 +6,9 @@ copyright: "Copyright &copy; 2023, School of Life Sciences, Westlake University"
 
 nav:
 - Index: index.md
-- Tutorial:
+- Tutorials:
     - NGS:
-        - Preprocessing the data of scATAC-seq: Tutorials-single/t_preprocess.ipynb
-        - Data integration: Tutorials-single/t_single_concat.ipynb
-        - Find the genes related regions: Tutorials-single/t_findgenes.ipynb
-        - Calculating the gene activity matrix of scATAC-seq: Tutorials-single/t_gene_activity.ipynb
-        - Pseudobulk visualization: Tutorials-single/t_pseudobulk_visual.ipynb
-    - TGS:
+        - Preprocessing the data of scATAC-seq: Tutorials-NGS/t_preprocess.ipynb
 
 
   
