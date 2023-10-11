@@ -11,7 +11,7 @@ nav:
         - Calculating the telomere length with telseq: Tutorials-NGS/telseq.ipynb
         - Calculating the telomere length with telomerehunter: Tutorials-NGS/telomerehunter.ipynb
         - Calculating the telomere length with telomerecat: Tutorials-NGS/telomerehunter.ipynb
-
+        - Calculating the telomere length with computel: Tutorials-NGS/computel.ipynb
 
   
 
@@ -35,7 +35,7 @@ plugins:
 theme:
   name: material
   custom_dir: docs/overrides
-  logo: img/ico.png
+  logo: img/westlake.png
   favicon: img/favicon.ico
 
   palette:
