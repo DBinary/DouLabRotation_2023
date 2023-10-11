@@ -10,6 +10,7 @@ nav:
     - NGS:
         - Calculating the telomere length with telseq: Tutorials-NGS/telseq.ipynb
         - Calculating the telomere length with telomerehunter: Tutorials-NGS/telomerehunter.ipynb
+        - Calculating the telomere length with telomerecat: Tutorials-NGS/telomerehunter.ipynb
 
 
   
