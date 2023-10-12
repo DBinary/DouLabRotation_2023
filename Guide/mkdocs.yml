@@ -11,10 +11,11 @@ nav:
   - Calculating the telomere length with telomerehunter: Tutorials-NGS/telomerehunter.ipynb
   - Calculating the telomere length with telomerecat: Tutorials-NGS/telomerecat.ipynb
   - Calculating the telomere length with computel: Tutorials-NGS/computel.ipynb
+  
 - Debug:
   - Bugs of telomerecat: bug_cat.ipynb
   - Bugs of batch size effection: bug_batch.ipynb
-  
+
 plugins:
   - mkdocs-jupyter
   - glightbox
