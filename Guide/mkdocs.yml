@@ -14,6 +14,7 @@ nav:
 - Debug:
   - Bugs of telomerecat: bug_cat.ipynb
   - Bugs of batch size effection: bug_batch.ipynb
+  
 plugins:
   - mkdocs-jupyter
   - glightbox
