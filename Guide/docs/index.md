@@ -7,7 +7,7 @@
 
 The repository was used to contain tutorials of telemere length calculation for single cell DNA-seq data. It represents the work I completed during the first rotation at the School of Life Sciences, WestLake University and supervised by Professor [Yanmei Dou](https://www.westlake.edu.cn/faculty/yanmei-dou.html).
 
-To get started with this tutorials, check out the [Tutorials](Tutorial).
+To get started with this tutorials, check out the [Tutorials](Tutorials).
 
 For more details about the framework, please feel free to contact me.
 

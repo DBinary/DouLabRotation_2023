@@ -7,11 +7,12 @@ copyright: "Copyright &copy; 2023, School of Life Sciences, Westlake University"
 nav:
 - Index: index.md
 - Tutorials:
-    - NGS:
-        - Calculating the telomere length with telseq: Tutorials-NGS/telseq.ipynb
-        - Calculating the telomere length with telomerehunter: Tutorials-NGS/telomerehunter.ipynb
-        - Calculating the telomere length with telomerecat: Tutorials-NGS/telomerecat.ipynb
-        - Calculating the telomere length with computel: Tutorials-NGS/computel.ipynb
+  - Calculating the telomere length with telseq: Tutorials-NGS/telseq.ipynb
+  - Calculating the telomere length with telomerehunter: Tutorials-NGS/telomerehunter.ipynb
+  - Calculating the telomere length with telomerecat: Tutorials-NGS/telomerecat.ipynb
+  - Calculating the telomere length with computel: Tutorials-NGS/computel.ipynb
+- Debug:
+  - Bugs of telomerecat: bug_cat.ipynb
 
 plugins:
   - mkdocs-jupyter
