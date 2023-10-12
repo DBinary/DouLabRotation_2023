@@ -13,7 +13,7 @@ nav:
   - Calculating the telomere length with computel: Tutorials-NGS/computel.ipynb
 - Debug:
   - Bugs of telomerecat: bug_cat.ipynb
-
+  - Bugs of Batch size effection: bug_batch.ipynb
 plugins:
   - mkdocs-jupyter
   - glightbox
