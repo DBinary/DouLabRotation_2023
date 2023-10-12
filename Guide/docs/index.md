@@ -5,11 +5,11 @@
 
 ![Image title](img/telseq_plot.png){ align=right width=300 }
 
-Epiverse is the fundamental package for multi omics included bulk and single cell ATAC-seq analysis with Python.
+This repository was used to contain the tutorials of telemere length calculation for single cell DNA-seq data. This is the work I completed during the first rotation at the School of Life Sciences, WestLake University and supervised by Professor [Yanmei Dou](https://www.westlake.edu.cn/faculty/yanmei-dou.html).
 
-To get started with `epiverse`, check out the [Installation](Installation_guild) and [Tutorials](Tutorial).
+To get started with this tutorials, check out the [Tutorials](Tutorial).
 
-For more details about the epiverse framework, please check out our [publication]().
+For more details about the framework, please feel free to contact me.
 
 </div>
 
